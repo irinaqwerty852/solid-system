@@ -15,12 +15,12 @@
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>2.1.9.RELEASE</version>
-		<relativePath />
+		<relativePath/>
 	</parent>
 
 	<properties>
 		<java.version>8</java.version>
-		<java-driver.version>4.6.0</java-driver.version>
+		<java-driver.version>4.15.0</java-driver.version>
 		<swagger.version>2.9.2</swagger.version>
 		<version.maven.plugin.compiler>3.8.1</version.maven.plugin.compiler>
 		<version.maven.plugin.docker>1.4.12</version.maven.plugin.docker>
